@@ -1,4 +1,4 @@
-#Jogo da forca
+# Jogo da forca
 
 Esse jogo faz parte do curso de Python do grandissíssimo professro Gustavo Guanabara.
 Esse código só roda no terminal, sendo necessário fazer o download do script e
